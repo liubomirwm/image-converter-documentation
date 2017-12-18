@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ExecuteStrategy method" Url="html/M_PrimeHolding_ImageConverter_ImageContext_ExecuteStrategy.htm" />
+  <HelpKINode Title="GenericException class">
+    <HelpKINode Title="GenericException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_GenericException.htm" />
+    <HelpKINode Title="about GenericException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_GenericException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_GenericException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericException.GenericException constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_GenericException__ctor.htm" />
+  <HelpKINode Title="ImageContext class">
+    <HelpKINode Title="ImageContext Class" Url="html/T_PrimeHolding_ImageConverter_ImageContext.htm" />
+    <HelpKINode Title="about ImageContext class" Url="html/T_PrimeHolding_ImageConverter_ImageContext.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PrimeHolding_ImageConverter_ImageContext__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PrimeHolding_ImageConverter_ImageContext.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImageContext.ExecuteStrategy method" Url="html/M_PrimeHolding_ImageConverter_ImageContext_ExecuteStrategy.htm" />
+  <HelpKINode Title="ImageContext.ImageContext constructor" Url="html/Overload_PrimeHolding_ImageConverter_ImageContext__ctor.htm" />
+  <HelpKINode Title="InvalidCropDimensionsException class">
+    <HelpKINode Title="InvalidCropDimensionsException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException.htm" />
+    <HelpKINode Title="about InvalidCropDimensionsException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InvalidCropDimensionsException.InvalidCropDimensionsException constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException__ctor.htm" />
+  <HelpKINode Title="InvalidImageFormatException class">
+    <HelpKINode Title="InvalidImageFormatException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException.htm" />
+    <HelpKINode Title="about InvalidImageFormatException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InvalidImageFormatException.InvalidImageFormatException constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException__ctor.htm" />
+  <HelpKINode Title="InvalidImageOperation class">
+    <HelpKINode Title="InvalidImageOperation Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidImageOperation.htm" />
+    <HelpKINode Title="about InvalidImageOperation class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidImageOperation.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidImageOperation__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InvalidImageOperation.InvalidImageOperation constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidImageOperation__ctor.htm" />
+  <HelpKINode Title="InvalidPathException class">
+    <HelpKINode Title="InvalidPathException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidPathException.htm" />
+    <HelpKINode Title="about InvalidPathException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidPathException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidPathException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InvalidPathException.InvalidPathException constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidPathException__ctor.htm" />
+  <HelpKINode Title="InvalidPixelFormatException class">
+    <HelpKINode Title="InvalidPixelFormatException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidPixelFormatException.htm" />
+    <HelpKINode Title="about InvalidPixelFormatException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidPixelFormatException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidPixelFormatException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InvalidPixelFormatException.InvalidPixelFormatException constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidPixelFormatException__ctor.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter namespace" Url="html/N_PrimeHolding_ImageConverter.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter.Exceptions namespace" Url="html/N_PrimeHolding_ImageConverter_Exceptions.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter.Exceptions.GenericException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_GenericException.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter.Exceptions.InvalidCropDimensionsException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter.Exceptions.InvalidImageFormatException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter.Exceptions.InvalidImageOperation class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidImageOperation.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter.Exceptions.InvalidPathException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidPathException.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter.Exceptions.InvalidPixelFormatException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidPixelFormatException.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter.Exceptions.UnathorizedAccessException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter.Exceptions.WrongSaveImageFormatException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException.htm" />
+  <HelpKINode Title="PrimeHolding.ImageConverter.ImageContext class" Url="html/T_PrimeHolding_ImageConverter_ImageContext.htm" />
+  <HelpKINode Title="UnathorizedAccessException class">
+    <HelpKINode Title="UnathorizedAccessException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException.htm" />
+    <HelpKINode Title="about UnathorizedAccessException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnathorizedAccessException.UnathorizedAccessException constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException__ctor.htm" />
+  <HelpKINode Title="WrongSaveImageFormatException class">
+    <HelpKINode Title="WrongSaveImageFormatException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException.htm" />
+    <HelpKINode Title="about WrongSaveImageFormatException class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WrongSaveImageFormatException.WrongSaveImageFormatException constructor" Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException__ctor.htm" />
+</HelpKI>

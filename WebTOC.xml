@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="7b13b4ad-eca2-4e28-b051-52fafef25a8c" Title="PrimeHolding.ImageConverter" Url="html/N_PrimeHolding_ImageConverter.htm">
+    <HelpTOCNode Id="d501c246-6428-468e-9f10-c06db6c3a841" Title="ImageContext Class" Url="html/T_PrimeHolding_ImageConverter_ImageContext.htm">
+      <HelpTOCNode Id="24d54f65-0877-4aed-a4b3-d773444ec106" Title="ImageContext Constructor " Url="html/Overload_PrimeHolding_ImageConverter_ImageContext__ctor.htm">
+        <HelpTOCNode Title="ImageContext Constructor (String, String, String)" Url="html/M_PrimeHolding_ImageConverter_ImageContext__ctor.htm" />
+        <HelpTOCNode Title="ImageContext Constructor (String, String, String, Int32, Int32)" Url="html/M_PrimeHolding_ImageConverter_ImageContext__ctor_1.htm" />
+        <HelpTOCNode Title="ImageContext Constructor (String, String, String, Int32, Int32, Int32, Int32)" Url="html/M_PrimeHolding_ImageConverter_ImageContext__ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cbcc8b0a-9247-44d3-a09b-d8cdb9965456" Title="ImageContext Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_ImageContext.htm">
+        <HelpTOCNode Title="ExecuteStrategy Method " Url="html/M_PrimeHolding_ImageConverter_ImageContext_ExecuteStrategy.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c34c2953-f2e5-4b97-8e56-9aae3ab94487" Title="PrimeHolding.ImageConverter.Exceptions" Url="html/N_PrimeHolding_ImageConverter_Exceptions.htm">
+    <HelpTOCNode Id="476e2b4f-d701-4fcb-a8b9-a936c0ee3150" Title="GenericException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_GenericException.htm">
+      <HelpTOCNode Id="ed112aa4-db29-4b7f-bc3d-34cf9ccb79d5" Title="GenericException Constructor " Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_GenericException__ctor.htm">
+        <HelpTOCNode Title="GenericException Constructor " Url="html/M_PrimeHolding_ImageConverter_Exceptions_GenericException__ctor.htm" />
+        <HelpTOCNode Title="GenericException Constructor (String)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_GenericException__ctor_1.htm" />
+        <HelpTOCNode Title="GenericException Constructor (String, Exception)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_GenericException__ctor_2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="aeaa36fb-a100-4b2d-8433-9da757db85d0" Title="InvalidCropDimensionsException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException.htm">
+      <HelpTOCNode Id="a9851d17-875a-48ab-8c3b-10e9bca4f5ce" Title="InvalidCropDimensionsException Constructor " Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException__ctor.htm">
+        <HelpTOCNode Title="InvalidCropDimensionsException Constructor " Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException__ctor.htm" />
+        <HelpTOCNode Title="InvalidCropDimensionsException Constructor (String)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException__ctor_1.htm" />
+        <HelpTOCNode Title="InvalidCropDimensionsException Constructor (String, Exception)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException__ctor_2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="824c97a4-b87e-4191-b75c-e1938b9912e8" Title="InvalidImageFormatException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException.htm">
+      <HelpTOCNode Id="e8c967bf-ab0a-4ef8-9d43-2af67552bd1c" Title="InvalidImageFormatException Constructor " Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException__ctor.htm">
+        <HelpTOCNode Title="InvalidImageFormatException Constructor " Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException__ctor.htm" />
+        <HelpTOCNode Title="InvalidImageFormatException Constructor (String)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException__ctor_1.htm" />
+        <HelpTOCNode Title="InvalidImageFormatException Constructor (String, Exception)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException__ctor_2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d62e8dba-b80d-45ed-a92a-19ae31d35369" Title="InvalidImageOperation Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidImageOperation.htm">
+      <HelpTOCNode Id="0cedddba-7ac4-44de-a62e-f6441626db4b" Title="InvalidImageOperation Constructor " Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidImageOperation__ctor.htm">
+        <HelpTOCNode Title="InvalidImageOperation Constructor " Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidImageOperation__ctor.htm" />
+        <HelpTOCNode Title="InvalidImageOperation Constructor (String)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidImageOperation__ctor_1.htm" />
+        <HelpTOCNode Title="InvalidImageOperation Constructor (String, Exception)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidImageOperation__ctor_2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a9f684e1-baff-45ae-a0a8-88861022a360" Title="InvalidPathException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidPathException.htm">
+      <HelpTOCNode Id="0dd2d021-70f1-44e5-bf2a-64211912739d" Title="InvalidPathException Constructor " Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidPathException__ctor.htm">
+        <HelpTOCNode Title="InvalidPathException Constructor " Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidPathException__ctor.htm" />
+        <HelpTOCNode Title="InvalidPathException Constructor (String)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidPathException__ctor_1.htm" />
+        <HelpTOCNode Title="InvalidPathException Constructor (String, Exception)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidPathException__ctor_2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="de54ec08-6d11-4e84-9739-cde9b4cac7af" Title="InvalidPixelFormatException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidPixelFormatException.htm">
+      <HelpTOCNode Id="afe1b70c-d958-4555-81c6-4b6ea5b26159" Title="InvalidPixelFormatException Constructor " Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_InvalidPixelFormatException__ctor.htm">
+        <HelpTOCNode Title="InvalidPixelFormatException Constructor " Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidPixelFormatException__ctor.htm" />
+        <HelpTOCNode Title="InvalidPixelFormatException Constructor (String)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidPixelFormatException__ctor_1.htm" />
+        <HelpTOCNode Title="InvalidPixelFormatException Constructor (String, Exception)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_InvalidPixelFormatException__ctor_2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a70cac42-4c48-4c81-a015-fee66caf615e" Title="UnathorizedAccessException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException.htm">
+      <HelpTOCNode Id="6e51b165-a87d-431e-a34a-a4e6b67aaa5e" Title="UnathorizedAccessException Constructor " Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException__ctor.htm">
+        <HelpTOCNode Title="UnathorizedAccessException Constructor " Url="html/M_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException__ctor.htm" />
+        <HelpTOCNode Title="UnathorizedAccessException Constructor (String)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException__ctor_1.htm" />
+        <HelpTOCNode Title="UnathorizedAccessException Constructor (String, Exception)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException__ctor_2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5f431fe0-fa95-4e72-9599-0c21dbb8db91" Title="WrongSaveImageFormatException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException.htm">
+      <HelpTOCNode Id="d374bd73-8cc0-48ac-8492-293769ec31bd" Title="WrongSaveImageFormatException Constructor " Url="html/Overload_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException__ctor.htm">
+        <HelpTOCNode Title="WrongSaveImageFormatException Constructor " Url="html/M_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException__ctor.htm" />
+        <HelpTOCNode Title="WrongSaveImageFormatException Constructor (String)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException__ctor_1.htm" />
+        <HelpTOCNode Title="WrongSaveImageFormatException Constructor (String, Exception)" Url="html/M_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException__ctor_2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
