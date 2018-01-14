@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2017.5.15.0" projectFile="D:\Projects\ImageConverter Documentation\documentation.shfbproj" started="Tue, 02 Jan 2018 17:10:03">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2017.5.15.0" projectFile="D:\Projects\ImageConverter Documentation\imageConverterDocumentation.shfbproj" started="Sun, 14, Jan, 2018 21:00:58">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -15,35 +15,34 @@ Copyright &#169; 2006-2017, Eric Woodruff, All Rights Reserved
 Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
 -------------------------------
 Clearing any prior web/markdown output...
-    Did not delete folder &#39;D:\Projects\ImageConverter Documentation\Help\.git&#39; as it contains read-only or hidden folders/files
 </buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
-Source: C:\Users\liubo\Downloads\ImageConverter\ImageConverter\ImageConverter\PrimeHolding.ImageConverter\PrimeHolding.ImageConverter.csproj
-    Found project &#39;C:\Users\liubo\Downloads\ImageConverter\ImageConverter\ImageConverter\PrimeHolding.ImageConverter\PrimeHolding.ImageConverter.csproj&#39;
+Source: D:\Projects\ImageConverter\PrimeHolding.ImageConverter\PrimeHolding.ImageConverter.csproj
+    Found project &#39;D:\Projects\ImageConverter\PrimeHolding.ImageConverter\PrimeHolding.ImageConverter.csproj&#39;
 
 Parsing project files
-    Found assembly &#39;C:\Users\liubo\Downloads\ImageConverter\ImageConverter\ImageConverter\PrimeHolding.ImageConverter\bin\Debug\PrimeHolding.ImageConverter.dll&#39;
+    Found assembly &#39;D:\Projects\ImageConverter\PrimeHolding.ImageConverter\bin\Debug\PrimeHolding.ImageConverter.dll&#39;
 
 References to include (excluding framework assemblies):
     PrimeHolding.ImageConverter
 
 Copying XML comments files
-    C:\Users\liubo\Downloads\ImageConverter\ImageConverter\ImageConverter\PrimeHolding.ImageConverter\bin\Debug\PrimeHolding.ImageConverter.xml -&gt; D:\Projects\ImageConverter Documentation\Help\Working\PrimeHolding.ImageConverter.xml
+    D:\Projects\ImageConverter\PrimeHolding.ImageConverter\bin\Debug\PrimeHolding.ImageConverter.xml -&gt; D:\Projects\ImageConverter Documentation\Help\Working\PrimeHolding.ImageConverter.xml
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00,0050
+</plugIn>    Last step completed in 00:00:00,0055
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00,0010
+    Last step completed in 00:00:00,0055
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateRefInfo.proj]
-Build started Tue, 02 Jan 2018 17:10:04.
+Build started Sun, 14, Jan, 2018 21:00:59.
 Project &quot;D:\Projects\ImageConverter Documentation\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -52,7 +51,7 @@ GenerateRefInfo:
   Copyright c 2006-2017, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2016, Eric Woodruff, All Rights Reserved.
   No source code context base path specified.  Source context information is unavailable.
-  Loaded 1 assemblies for reflection and 1 dependency assemblies.
+  Loaded 1 assemblies for reflection and 2 dependency assemblies.
   Wrote information on 4 namespaces, 16 types, and 10 members
   Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
   XslTransform (v2017.5.15.0)
@@ -63,13 +62,13 @@ Done Building Project &quot;D:\Projects\ImageConverter Documentation\Help\Workin
 
 Build succeeded.
 
-Time Elapsed 00:00:00.60
-    Last step completed in 00:00:00,7284
+Time Elapsed 00:00:00.52
+    Last step completed in 00:00:00,6200
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - TransformManifest.proj]
-Build started Tue, 02 Jan 2018 17:10:04.
+Build started Sun, 14, Jan, 2018 21:00:59.
 Project &quot;D:\Projects\ImageConverter Documentation\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2017.5.15.0)
@@ -91,12 +90,12 @@ Done Building Project &quot;D:\Projects\ImageConverter Documentation\Help\Workin
 
 Build succeeded.
 
-Time Elapsed 00:00:00.52
-    Last step completed in 00:00:00,6259
+Time Elapsed 00:00:00.34
+    Last step completed in 00:00:00,4312
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00,0105
+    Last step completed in 00:00:00,0000
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -110,7 +109,7 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started Tue, 02 Jan 2018 17:10:05.
+Build started Sun, 14, Jan, 2018 21:01:00.
 Project &quot;D:\Projects\ImageConverter Documentation\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2017.5.15.0)
@@ -121,26 +120,26 @@ Done Building Project &quot;D:\Projects\ImageConverter Documentation\Help\Workin
 
 Build succeeded.
 
-Time Elapsed 00:00:00.12
+Time Elapsed 00:00:00.10
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00,2312
+    Last step completed in 00:00:00,1999
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00,1528
+    Last step completed in 00:00:00,1158
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 D:\Projects\ImageConverter Documentation\Help\Working\sandcastle.config
   Updating reference topic configurations.
   No conceptual content.  Removing conceptual content components.
-    Last step completed in 00:00:00,0160
+    Last step completed in 00:00:00,0157
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - BuildTopics.proj]
-Build started Tue, 02 Jan 2018 17:10:05.
+Build started Sun, 14, Jan, 2018 21:01:00.
 Project &quot;D:\Projects\ImageConverter Documentation\Help\Working\BuildTopics.proj&quot; on node 1 (default targets).
 BuildTopics:
   BuildAssembler (v2017.5.15.0)
@@ -158,12 +157,12 @@ Done Building Project &quot;D:\Projects\ImageConverter Documentation\Help\Workin
 
 Build succeeded.
 
-Time Elapsed 00:00:02.28
-    Last step completed in 00:00:02,4070
+Time Elapsed 00:00:02.27
+    Last step completed in 00:00:02,3613
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00,0020
+    Last step completed in 00:00:00,0000
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -179,7 +178,7 @@ Processed 38 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to D:\Projects\ImageConverter Documentation\Help\Working\WebKI.xml
 Saving website table of contents to D:\Projects\ImageConverter Documentation\Help\Working\WebTOC.xml
-    Last step completed in 00:00:00,2100
+    Last step completed in 00:00:00,1845
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -261,7 +260,7 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; D:\Projects\ImageConverter Documentation\Help\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\clipboard.min.js -&gt; D:\Projects\ImageConverter Documentation\Help\Working\Output\Website\scripts\clipboard.min.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; D:\Projects\ImageConverter Documentation\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:00,2031
+    Last step completed in 00:00:00,1625
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -272,21 +271,21 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:00,4766
+</plugIn>    Last step completed in 00:00:00,2944
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 159 files for the website content
-    Last step completed in 00:00:00,4226
+    Last step completed in 00:00:00,5026
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00,1508
+    Last step completed in 00:00:00,0533
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at Tue, 02 Jan 2018 17:10:09.  Total time: 00:00:06,2352
+Build completed successfully at Sun, 14, Jan, 2018 21:01:04.  Total time: 00:00:05,3251
 
 </buildStep>
 </shfbBuild>

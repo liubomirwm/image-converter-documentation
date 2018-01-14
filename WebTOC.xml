@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="540434b8-e03a-4ae6-b69d-9358f7a5a169" Title="PrimeHolding.ImageConverter" Url="html/N_PrimeHolding_ImageConverter.htm">
-    <HelpTOCNode Id="67ed1024-1dad-4bb8-b324-63f19351a474" Title="ImageContext Class" Url="html/T_PrimeHolding_ImageConverter_ImageContext.htm">
-      <HelpTOCNode Id="83806278-8f66-440a-acf5-d36784af0284" Title="ImageContext Constructor " Url="html/Overload_PrimeHolding_ImageConverter_ImageContext__ctor.htm">
+  <HelpTOCNode Id="0fd6c34e-1b83-49d4-8916-d48d2a1b2c0d" Title="PrimeHolding.ImageConverter" Url="html/N_PrimeHolding_ImageConverter.htm">
+    <HelpTOCNode Id="242d478b-6102-4cf8-8ce4-0af2ff7166b9" Title="ImageContext Class" Url="html/T_PrimeHolding_ImageConverter_ImageContext.htm">
+      <HelpTOCNode Id="e70a59ff-5d9f-4ab7-a2af-499756b16dd7" Title="ImageContext Constructor " Url="html/Overload_PrimeHolding_ImageConverter_ImageContext__ctor.htm">
         <HelpTOCNode Title="ImageContext Constructor (String, String, String)" Url="html/M_PrimeHolding_ImageConverter_ImageContext__ctor.htm" />
         <HelpTOCNode Title="ImageContext Constructor (String, String, String, Int32, Int32)" Url="html/M_PrimeHolding_ImageConverter_ImageContext__ctor_1.htm" />
         <HelpTOCNode Title="ImageContext Constructor (String, String, String, Int32, Int32, Int32, Int32)" Url="html/M_PrimeHolding_ImageConverter_ImageContext__ctor_2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="102c0e01-89ca-4b37-8721-393ed7be3bd2" Title="ImageContext Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_ImageContext.htm">
+      <HelpTOCNode Id="07e5e99a-f0be-4ec9-a2dc-afcfc54d68c9" Title="ImageContext Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_ImageContext.htm">
         <HelpTOCNode Title="ExecuteStrategy Method " Url="html/M_PrimeHolding_ImageConverter_ImageContext_ExecuteStrategy.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="359a57c7-926d-4f5c-a455-2f8568d1335c" Title="PrimeHolding.ImageConverter.Exceptions" Url="html/N_PrimeHolding_ImageConverter_Exceptions.htm">
+  <HelpTOCNode Id="0879ed85-f7f5-4b54-be84-7397deaeefaa" Title="PrimeHolding.ImageConverter.Exceptions" Url="html/N_PrimeHolding_ImageConverter_Exceptions.htm">
     <HelpTOCNode Title="GenericException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_GenericException.htm" />
     <HelpTOCNode Title="InvalidCropDimensionsException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidCropDimensionsException.htm" />
     <HelpTOCNode Title="InvalidImageFormatException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_InvalidImageFormatException.htm" />
@@ -24,36 +24,36 @@
     <HelpTOCNode Title="UnathorizedAccessException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_UnathorizedAccessException.htm" />
     <HelpTOCNode Title="WrongSaveImageFormatException Class" Url="html/T_PrimeHolding_ImageConverter_Exceptions_WrongSaveImageFormatException.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="3c81fe56-d362-49ba-be5b-c976ab4bf7b0" Title="PrimeHolding.ImageConverter.Strategies.Convert" Url="html/N_PrimeHolding_ImageConverter_Strategies_Convert.htm">
-    <HelpTOCNode Id="2410eaf5-c775-4d9e-846a-06dec8d151a7" Title="ToGIFStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Convert_ToGIFStrategy.htm">
-      <HelpTOCNode Id="4e5c7410-16a2-4176-86d4-240a4bb4fcca" Title="ToGIFStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Convert_ToGIFStrategy.htm">
+  <HelpTOCNode Id="b433137e-bf9b-42f1-a8e3-8a923ce1ebf3" Title="PrimeHolding.ImageConverter.Strategies.Convert" Url="html/N_PrimeHolding_ImageConverter_Strategies_Convert.htm">
+    <HelpTOCNode Id="95698b21-7cfb-4a50-be28-849b02112ebf" Title="ToGIFStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Convert_ToGIFStrategy.htm">
+      <HelpTOCNode Id="f3e8e40e-1113-4ade-ace9-59f333a406ee" Title="ToGIFStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Convert_ToGIFStrategy.htm">
         <HelpTOCNode Title="Start Method " Url="html/M_PrimeHolding_ImageConverter_Strategies_Convert_ToGIFStrategy_Start.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ae10b4ec-fb9a-42cc-a770-5e516b69bb92" Title="ToJPGStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Convert_ToJPGStrategy.htm">
-      <HelpTOCNode Id="60b9e8ba-96f0-40af-bd1c-7037ccfc1bfe" Title="ToJPGStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Convert_ToJPGStrategy.htm">
+    <HelpTOCNode Id="53e9f56b-bbf7-443d-8441-cbdb9be74608" Title="ToJPGStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Convert_ToJPGStrategy.htm">
+      <HelpTOCNode Id="b332d6ac-593b-45ca-a786-f789792906a5" Title="ToJPGStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Convert_ToJPGStrategy.htm">
         <HelpTOCNode Title="Start Method " Url="html/M_PrimeHolding_ImageConverter_Strategies_Convert_ToJPGStrategy_Start.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9fcd674f-b4b3-4486-b4a7-29cdaf81c92c" Title="ToPNGStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Convert_ToPNGStrategy.htm">
-      <HelpTOCNode Id="11735e4e-050a-43c9-ba5b-2bf3c654b98b" Title="ToPNGStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Convert_ToPNGStrategy.htm">
+    <HelpTOCNode Id="ab1f4402-e991-42f1-bc7b-46551f0e0d3d" Title="ToPNGStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Convert_ToPNGStrategy.htm">
+      <HelpTOCNode Id="8b08a2c2-a014-47df-b158-f756d6ac350f" Title="ToPNGStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Convert_ToPNGStrategy.htm">
         <HelpTOCNode Title="Start Method " Url="html/M_PrimeHolding_ImageConverter_Strategies_Convert_ToPNGStrategy_Start.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="73c13473-6ac0-4c97-a7b7-6170a7bad95b" Title="PrimeHolding.ImageConverter.Strategies.Resize" Url="html/N_PrimeHolding_ImageConverter_Strategies_Resize.htm">
-    <HelpTOCNode Id="f09df11b-9fb5-4d09-bac0-ff7cd386f3dd" Title="CropStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Resize_CropStrategy.htm">
-      <HelpTOCNode Id="d0440eee-f5e1-4c35-8f2c-c4b1c6df7413" Title="CropStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Resize_CropStrategy.htm">
+  <HelpTOCNode Id="7dca8962-4711-4e12-9342-52fa8a59a363" Title="PrimeHolding.ImageConverter.Strategies.Resize" Url="html/N_PrimeHolding_ImageConverter_Strategies_Resize.htm">
+    <HelpTOCNode Id="2875a141-8b3d-4376-b791-799e2201e5e5" Title="CropStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Resize_CropStrategy.htm">
+      <HelpTOCNode Id="0a846ad8-05ce-4dc3-a37e-3db3d852ad50" Title="CropStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Resize_CropStrategy.htm">
         <HelpTOCNode Title="Start Method " Url="html/M_PrimeHolding_ImageConverter_Strategies_Resize_CropStrategy_Start.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2a7ec8c5-c59f-45e3-a1e3-5b939e308d8e" Title="KeepAspectStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Resize_KeepAspectStrategy.htm">
-      <HelpTOCNode Id="80e0b1e2-e10c-4952-a5e8-fe7afa680323" Title="KeepAspectStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Resize_KeepAspectStrategy.htm">
+    <HelpTOCNode Id="3c55738c-44b4-410d-95e3-ebfd6618c62e" Title="KeepAspectStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Resize_KeepAspectStrategy.htm">
+      <HelpTOCNode Id="d6de1ef8-d7ef-4aca-b640-a905347eaeff" Title="KeepAspectStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Resize_KeepAspectStrategy.htm">
         <HelpTOCNode Title="Start Method " Url="html/M_PrimeHolding_ImageConverter_Strategies_Resize_KeepAspectStrategy_Start.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9b11c04b-a32d-40d6-8fc1-0a44d1ed4021" Title="SkewStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Resize_SkewStrategy.htm">
-      <HelpTOCNode Id="da483458-9e35-4ef1-8e37-32ed6aa4b395" Title="SkewStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Resize_SkewStrategy.htm">
+    <HelpTOCNode Id="cf51b823-27f5-49c1-8a6e-d50e1cffce70" Title="SkewStrategy Class" Url="html/T_PrimeHolding_ImageConverter_Strategies_Resize_SkewStrategy.htm">
+      <HelpTOCNode Id="652f9a00-63dc-4d56-b251-03e270fa3c6c" Title="SkewStrategy Methods" Url="html/Methods_T_PrimeHolding_ImageConverter_Strategies_Resize_SkewStrategy.htm">
         <HelpTOCNode Title="Start Method " Url="html/M_PrimeHolding_ImageConverter_Strategies_Resize_SkewStrategy_Start.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
